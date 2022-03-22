@@ -1,0 +1,31 @@
+#card {
+    background-color: gainsboro;
+    width: 35%;
+    min-width: 600px;
+    max-width: 800px;
+    margin: 0 auto;
+    /*border-radius: 10px;*/
+}
+
+img{
+    margin-right: 10px;
+}
+
+main{
+    border: 20px;
+    border-color: blue;
+}
+
+h2{
+    text-align: left;
+    font-size: 15;
+}
+
+#desc{
+    text-align: justify;
+    font: arial;
+    font-size: 15;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
